@@ -983,7 +983,7 @@ MarchingCubes.prototype.constructor = MarchingCubes;
 /////////////////////////////////////
 
 // These tables are straight from Paul Bourke's page:
-// http://local.wasp.uwa.edu.au/~pbourke/geometry/polygonise/
+// http://paulbourke.net/geometry/polygonise/
 // who in turn got them from Cory Gene Bloyd.
 
 var edgeTable = new Int32Array( [
